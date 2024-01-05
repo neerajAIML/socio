@@ -1,0 +1,5 @@
+29-12-2023 02:02:59 : INFO : _internal : _log : 187 : (Process Details : (1282843, MainProcess), Thread Details : (139959229454144, MainThread)) Log : [33mPress CTRL+C to quit[0m
+29-12-2023 02:03:54 : ERROR : FacebookBlueprint : livefeed : 71 : (Process Details : (1282843, MainProcess), Thread Details : (139958299608640, Thread-1)) Log : 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+29-12-2023 02:03:54 : ERROR : FacebookBlueprint : livefeed : 72 : (Process Details : (1282843, MainProcess), Thread Details : (139958299608640, Thread-1)) Log : None
+29-12-2023 02:03:54 : INFO : _internal : _log : 187 : (Process Details : (1282843, MainProcess), Thread Details : (139958299608640, Thread-1)) Log : 127.0.0.1 - - [29/Dec/2023 14:03:54] "POST /api/facebook/livefeed HTTP/1.1" 200 -
+29-12-2023 02:10:06 : INFO : _internal : _log : 187 : (Process Details : (1282843, MainProcess), Thread Details : (139958299608640, Thread-2)) Log : 127.0.0.1 - - [29/Dec/2023 14:10:06] "POST /api/facebook/livefeed HTTP/1.1" 200 -
